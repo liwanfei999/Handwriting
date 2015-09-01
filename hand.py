@@ -1,5 +1,4 @@
 from PIL import Image, ImageFilter, ImageDraw
-import skimage
 import numpy
 import cv2
 import sys
